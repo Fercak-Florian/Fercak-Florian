@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fercak-Florian
+- 👋 Hi, I’m Florian Fercak
 - 👀 I’m interested in developpement
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
