@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Florian Fercak
-- 👀 I’m interested in developpement
+- 👀 I’m interested in Java developpement
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
